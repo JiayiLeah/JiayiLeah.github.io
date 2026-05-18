@@ -111,8 +111,10 @@ main {
 }
 
 .profile-card {
-  width: 100%;
-  max-width: 340px;
+  width: 82%;
+  max-width: 720px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 .profile-photo-link {
@@ -1032,20 +1034,18 @@ a:active {
 .profile-card {
   width: 82%;
   max-width: 720px !important;
-  margin-left: 0% !important;
+  margin-left: auto !important;
   margin-right: auto !important;
 }
 
 .more-about-card {
-  width: min(100%, 500px);
-  margin-top: 7rem;
-  margin-left: 5rem !important;
-  margin-right: 5rem !important;
+  width: 100%;
+  margin-top: 5rem;
   border: none;
   border-radius: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: 0.9fr 1.5fr;
+  grid-template-columns: 0.8fr 1.7fr;
   gap: 1.2rem;
   align-items: center;
 }
@@ -1236,7 +1236,7 @@ a:active {
   position: fixed !important;
 
   top: 2rem !important;
-  left: calc(50% + 2rem) !important;
+  left: calc(45% + 2rem) !important;
   right: auto !important;
 
   z-index: 2147483647 !important;
