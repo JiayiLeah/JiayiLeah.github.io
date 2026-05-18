@@ -998,34 +998,28 @@ a:active {
 /* Center profile text under avatar */
 
 .profile-sidebar .profile-photo-link {
-  margin-left: 10rem !important;
-  margin-right: 10rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 .profile-sidebar .profile-name {
   width: min(100%, 300px) !important;
-  margin-left: 10rem !important;
-  margin-right: 10rem !important;
-  margin-bottom: 0.4rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
   text-align: center !important;
-}
-
-.profile-sidebar .profile-name a {
-  display: inline-block !important;
-  transform: none !important;
 }
 
 .profile-sidebar .profile-email {
   width: min(100%, 300px) !important;
-  margin-left: 10rem !important;
-  margin-right: 10rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
   text-align: center !important;
 }
 
 .profile-sidebar .profile-socials {
   width: min(100%, 300px) !important;
-  margin-left: 10rem !important;
-  margin-right: 10rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
   justify-content: center !important;
 }
 
