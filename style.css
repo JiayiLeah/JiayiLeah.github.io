@@ -1325,3 +1325,42 @@ a:active {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* ─── Center top profile block ─── */
+
+.profile-top-block {
+  width: min(100%, 300px) !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+}
+
+.profile-top-block .profile-photo-link,
+.profile-top-block .profile-name,
+.profile-top-block .profile-email,
+.profile-top-block .profile-socials {
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.profile-top-block .profile-name {
+  margin-top: 0 !important;
+  margin-bottom: 0.4rem !important;
+  text-align: center !important;
+}
+
+.profile-top-block .profile-name a {
+  display: inline-block !important;
+  transform: none !important;
+}
+
+.profile-top-block .profile-email {
+  text-align: center !important;
+  margin-top: 0 !important;
+  margin-bottom: 1.6rem !important;
+}
+
+.profile-top-block .profile-socials {
+  justify-content: center !important;
+}
