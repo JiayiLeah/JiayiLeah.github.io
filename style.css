@@ -1032,7 +1032,7 @@ a:active {
 .profile-card {
   width: 82%;
   max-width: 720px !important;
-  margin-left: auto !important;
+  margin-left: 10% !important;
   margin-right: auto !important;
 }
 
