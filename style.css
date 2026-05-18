@@ -142,6 +142,7 @@ main {
 
 .sidebar .profile-name a {
   display: inline-block;
+  transform: none;
   font-size: 2.4rem;
   font-weight: 600;
   line-height: 1;
@@ -1362,4 +1363,21 @@ a:active {
 
 .profile-top-block .profile-socials {
   justify-content: center !important;
+}
+
+/* ─── Force profile name to center ─── */
+
+.profile-top-block .profile-name {
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+}
+
+.profile-top-block .profile-name a {
+  display: inline-block !important;
+  transform: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  text-align: center !important;
 }
