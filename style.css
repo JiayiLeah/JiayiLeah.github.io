@@ -1270,7 +1270,7 @@ a:active {
 
 .profile-sidebar .profile-nav {
   width: min(100%, 300px) !important;
-  margin: 5rem auto -2rem auto !important;
+  margin: 3rem auto -2rem auto !important;
 }
 
 .profile-sidebar .nav-index {
