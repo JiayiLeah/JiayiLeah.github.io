@@ -67,7 +67,7 @@ body {
 
 /* ─── Sidebar (Left Panel) ─── */
 .sidebar {
-  width: 40%;
+  width: 45%;
   max-width: 720px;
   min-width: 280px;
   padding: 1rem;
@@ -81,9 +81,9 @@ body {
 
 /* Push main content to the right of the fixed sidebar */
 main {
-  margin-left: 40%;
+  margin-left: 45%;
   padding: 0.5rem 1rem 1rem;
-  max-width: 60%;
+  max-width: 55%;
 }
 
 .sidebar-header {
@@ -1163,9 +1163,9 @@ a:active {
     top: 0 !important;
     right: 0 !important;
     bottom: 0 !important;
-    left: 40% !important;
+    left: 45% !important;
 
-    width: 60% !important;
+    width: 55% !important;
     max-width: none !important;
     height: 100vh !important;
 
