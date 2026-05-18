@@ -1233,8 +1233,11 @@ a:active {
   display: flex !important;
   flex-direction: column !important;
   position: fixed !important;
+
   top: 2rem !important;
-  right: 36rem !important;
+  left: calc(50% + 2rem) !important;
+  right: auto !important;
+
   z-index: 2147483647 !important;
 
   gap: 0.45rem !important;
