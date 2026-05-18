@@ -1230,7 +1230,7 @@ a:active {
   position: fixed !important;
 
   top: 2rem !important;
-  left: calc(40% + 2rem) !important;
+  left: calc(45% + 2rem) !important;
   right: auto !important;
 
   z-index: 2147483647 !important;
