@@ -1030,9 +1030,10 @@ a:active {
 /* ─── More About Me Card ─── */
 
 .profile-card {
-  width: 100%;
-  max-width: 500px !important;
-  margin-left: 0rem !important;
+  width: 82%;
+  max-width: 720px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 .more-about-card {
